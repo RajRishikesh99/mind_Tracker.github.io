@@ -11,3 +11,6 @@
 ## The best part ?
 	  
 <p align="center">All of these features are actually accessible for free and it gets customized as per the mood you select for the day. The main intend is to make you feel that you are not alone and there is someone virtually accompaning you 24 x 7. And yes! Its a clear confession that we don't store any of your data, its all yours, always.</p>
+
+
+LINK: https://rajrishikesh99.github.io/mind_Tracker.github.io/
